@@ -1,0 +1,5 @@
+{
+  "name": "Rulezet - Restaurant Licensing Guide",
+  "description": "An intelligent assistant for Israeli restaurant owners to navigate complex licensing regulations. Get a personalized, easy-to-understand report based on your business details, powered by Gemini.",
+  "requestFramePermissions": []
+}
