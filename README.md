@@ -1,6 +1,6 @@
 # Rulezet - Your AI-Powered Guide to Israeli Restaurant Licensing
 
-![Rulezet App Screenshot](https://storage.googleapis.com/aai-web-samples/apps/rulezet-screenshot.png)
+![Rulezet App Screenshot](https://storage.googleapis.com/aai-web-samples/apps/rulezet-screenshot-hebrew.png)
 
 **Rulezet** is an intelligent web application designed to help restaurant owners in Israel navigate the complexities of business licensing. By answering a few simple questions about their establishment, users receive a personalized, actionable, and easy-to-understand regulatory checklist, powered by the Google Gemini API.
 
